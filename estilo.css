@@ -1,0 +1,74 @@
+body {
+background-image: url("img/img_1.png");
+}
+div{
+
+    margin: 1rem;
+    padding: 1rem;
+
+    /* IMPORTANTE */
+    text-align: center;
+}
+
+.res, .des, .ci{
+    margin: 0 auto;
+
+
+}
+
+.ci1, .des1{
+    margin: 0 auto;
+}
+h1{
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2{
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.txt{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffffff;
+}
+
+.txtarea{
+    margin: 1rem;
+    padding: 1rem;
+
+    /* IMPORTANTE */
+    text-align: center;
+    width: 100%;
+    line-height: 1.5;
+    padding: 15px 10px;
+    border: 1px solid var(--borderFormEls);
+    color: var(--white);
+
+    transition: background-color 0.3s cubic-bezier(0.57, 0.21, 0.69, 1.25),
+    transform 0.3s cubic-bezier(0.57, 0.21, 0.69, 1.25);
+}
+
+.dos{
+    display: inline-block;
+    height:auto;
+}
+.Cesar, .Viggenere{
+    width: 476.36px;
+}
+.Cesar{
+    margin-left: 70%;
+}
+.Viggenere{
+    margin-left: 70%;
+}
+
+.ctitle{
+    margin-left: 18%;
+    color: #ffffff;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+.vtitle{
+    margin-left: 12%;
+    color: #ffffff;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
